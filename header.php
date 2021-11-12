@@ -14,6 +14,8 @@
 <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 <!-- Custom styles for this template -->
 <link href="assets/css/mediumish.css" rel="stylesheet">
+<link rel="stylesheet" href="assets/fa/css/all.min.css">
+<link rel="stylesheet" href="assets/css/style1.css">
 </head>
 <body>
 
