@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+ include_once "header.php";
+?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Admin Dashboard</title>
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/fa/css/all.min.css" rel="stylesheet" >
-    <link href="assets/css/style1.css" rel="stylesheet" >
-</head>
-
-<body>
 <!-- header Start -->
 <div class="row bg-custom">
     <div class="col-12">
@@ -60,8 +50,6 @@
     </div>
 
 </div>
-
-<script src="js/jquery-3.2.1.min.js"></script>
-</body>
-
-</html>
+<?php
+include_once "footer.php";
+?>
