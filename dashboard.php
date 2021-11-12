@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Admin Dashboard</title>
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="fa/css/all.min.css">
-    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fa/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style1.css">
 </head>
 
 <body>
@@ -37,7 +37,7 @@
                     <div class="avatar text-center">
                         <div class=" d-flex justify-content-center">
                             <div class="avatar-circle">
-                                <img src="dog.jpg" alt="avatar">
+                                <img src="assets/img/dog.jpg" alt="avatar">
                             </div>
                         </div>
                         <h5 class="name">Turvec Okafor</h5>
