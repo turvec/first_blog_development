@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Admin Dashboard</title>
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="fa/css/all.min.css">
-    <link rel="stylesheet" href="style1.css">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/fa/css/all.min.css" rel="stylesheet" >
+    <link href="assets/css/style1.css" rel="stylesheet" >
 </head>
 
 <body>
