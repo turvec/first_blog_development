@@ -12,12 +12,9 @@
 </head>
 
 <body>
-    <!-- Navbar ENnds -->
+    <!-- header Start -->
     <div class="row bg-custom">
         <div class="col-12">
-            <div class="text-white text-right">
-                <i class="fas fa-bars p-4"></i>
-            </div>
             <div class="my-4 mx-2 p-4 d-flex justify-content-between">
                 <div class="brand">
                     <i class=" fab fa-gg-circle fa-2x"></i>
@@ -29,7 +26,7 @@
 
         </div>
     </div>
-    <!-- Navbar Ends -->
+    <!-- header Ends -->
     <div class="page-content ">
         <div class="row mx-5">
             <div class="col-md-3">
